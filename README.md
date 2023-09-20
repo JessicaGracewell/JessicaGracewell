@@ -13,6 +13,16 @@
 </p>
 
 <br />
+## Code Time & Code Rank
+<img
+  width="600"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jessicagracewell&badges=0&show-avatar=false"
+/>
+<div>
+ <img src="https://wakatime.com/share/@jessicagracewell/16f8a829-20dc-4a92-9c40-1b257459952b.svg" width="290" style="display: inline-block;"/>
+ <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jessicagracewell" width="323"/>
+</div>
+
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicagracewell&theme=react&hide=html,css,dockerfile,shell,Objective-C,cmake,scss,ejs,stylus&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
