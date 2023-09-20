@@ -13,15 +13,6 @@
 </p>
 
 <br />
-## Code Time & Code Rank
-<img
-  width="600"
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jessicagracewell&badges=0&show-avatar=false"
-/>
-<div>
- <img src="https://wakatime.com/share/@e4f1d28c-5b21-4feb-ae95-874a2e3447f3/7a6f9a6d-ff29-4e1f-82fa-ee88bfe4266f.svg" width="290" style="display: inline-block;"/>
- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jessicagracewell" width="323"/>
-</div>
 
 
 <p align="center">
